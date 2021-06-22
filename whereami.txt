@@ -1,1 +1,4 @@
 structure: alignement memoire
+Accès aux éléments d’un tableau
+Tableaux et fonctions
+La vérité sur les tableaux

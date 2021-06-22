@@ -4,7 +4,7 @@ struct temps {
     unsigned heures;
     unsigned minutes;
     double secondes;
-	char	test;
+	// char	test;
 };
 
 

@@ -10,6 +10,8 @@ int main(void)
     printf("a = %d = **pp\n", **pp);
 	printf("*pp = %p = &a = %p\n", *pp, &a);
 	printf("pp = %p = &pa = %p\n", pp, &pa);
+
+    printf("&(*pp) = %p\n", &(*pp));
     return 0;
 }
 
